@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { InfoPaginaService } from './services/info-pagina.service';
-import { HttpClientModule } from '@angular/common/http';
+import { ProductosService } from './services/productos.service';
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
@@ -10,6 +10,7 @@ export class AppComponent {
   title = 'portafolio-template-html-to-angular-webapp';
 
   constructor(
-    public infoPaginaService: InfoPaginaService
-  ) {}
+    public infoPaginaService: InfoPaginaService,
+    public productosService: ProductosService
+  ) { }
 }

@@ -1,0 +1,21 @@
+{
+  "equipo" : [ {
+    "frase" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+    "nombre" : "Fabian Escobar",
+    "subtitulo" : "Dev",
+    "twitter" : "@FabianNEscobar_",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/portafolio-hmtl-to-angular.appspot.com/o/team-1.jpg?alt=media&token=cac4d84e-5f87-4688-a400-8833574f6bc5"
+  }, {
+    "frase" : "Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.",
+    "nombre" : "Melisa Flores",
+    "subtitulo" : "Ingeniera",
+    "twitter" : "@melisa_flor",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/portafolio-hmtl-to-angular.appspot.com/o/team-2.jpg?alt=media&token=d7be9ac7-3eea-404d-a759-8d929ff9f132"
+  }, {
+    "frase" : "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "nombre" : "Hernando Vallejo",
+    "subtitulo" : "Marketing",
+    "twitter" : "@hernando_val",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/portafolio-hmtl-to-angular.appspot.com/o/team-3.jpg?alt=media&token=73e83426-cc68-4b8a-8161-e17838cad6f9"
+  } ]
+}
